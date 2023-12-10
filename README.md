@@ -31,8 +31,8 @@ This project implements a RESTful API for a task management system using Django 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/task-management-api.git
-    cd task-management-api
+    git clone https://github.com/riteeshinfo/BIT_Assignment.git
+    cd Tasks
     ```
 
 2. Install dependencies:
